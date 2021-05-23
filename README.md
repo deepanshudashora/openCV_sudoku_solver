@@ -18,8 +18,10 @@ for that I also needed a model which can detect which image sudoku is having in 
 
 now I am taking the imput data preprocessing it and fitting into the model after this i am making a sudoku with it and fitting it into the solver function.
 
+![](images/scanned_one.jpg)
+
+![](images/final_output.jpeg)
+
 now when sudoku is solved i am getting the output image
 
-![](images/scanned_one.png)
 
-![](images/final_output.png)
